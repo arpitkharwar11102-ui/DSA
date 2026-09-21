@@ -42,12 +42,14 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/arpitkharwar11102-ui/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0001-two-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Binary Search
