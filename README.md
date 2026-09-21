@@ -5,6 +5,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0283-move-zeroes) |
@@ -26,6 +27,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0011-container-with-most-water) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arpitkharwar11102-ui/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0283-move-zeroes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
