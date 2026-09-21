@@ -5,11 +5,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arpitkharwar11102-ui/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0125-valid-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arpitkharwar11102-ui/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/arpitkharwar11102-ui/DSA/tree/master/3498-reverse-degree-of-a-string) |
