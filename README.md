@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0125-valid-palindrome) |
+| [1096-brace-expansion-ii](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arpitkharwar11102-ui/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/arpitkharwar11102-ui/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -73,6 +74,7 @@
 | [0001-two-sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [1096-brace-expansion-ii](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -92,6 +94,7 @@
 | ------- |
 | [0015-3sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0018-4sum) |
+| [1096-brace-expansion-ii](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Geometry
 |  |
@@ -115,4 +118,16 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
