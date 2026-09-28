@@ -66,6 +66,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0283-move-zeroes) |
+| [0904-fruit-into-baskets](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3524-find-x-value-of-array-i](https://github.com/arpitkharwar11102-ui/DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -77,6 +78,7 @@
 | [0001-two-sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0904-fruit-into-baskets](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0904-fruit-into-baskets) |
 | [1096-brace-expansion-ii](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sorting
