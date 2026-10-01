@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0125-valid-palindrome) |
 | [1096-brace-expansion-ii](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -145,6 +146,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
@@ -158,4 +160,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0287-find-the-duplicate-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
