@@ -13,6 +13,7 @@
 | [0141-linked-list-cycle](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -42,6 +43,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0202-happy-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/arpitkharwar11102-ui/DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -82,6 +84,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0202-happy-number) |
 | [0904-fruit-into-baskets](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0904-fruit-into-baskets) |
 | [1096-brace-expansion-ii](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -133,6 +136,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
