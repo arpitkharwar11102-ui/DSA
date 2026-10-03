@@ -8,17 +8,17 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+ class Solution {
     public ListNode middleNode(ListNode head) {
         
         ListNode slow = head;
         ListNode fast = head;
 
-        while(fast != null && fast.next != null)
-        {
-            slow = slow.next;
-            fast = fast.next.next;
-        }
-        return slow;
+       while(fast != null && fast.next != null)
+       {
+        slow = slow.next;
+        fast = fast.next.next;
+       }
+       return slow;
     }
 }
