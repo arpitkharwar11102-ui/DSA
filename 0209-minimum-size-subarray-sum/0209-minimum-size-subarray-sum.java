@@ -1,11 +1,12 @@
 class Solution {
     public int minSubArrayLen(int target, int[] nums) {
-        
-       int low = 0 , res = Integer.MAX_VALUE;
-       int sum = 0;
 
-       for(int high = 0 ; high < nums.length ; high++)
-       {
+      int low = 0 , res = Integer.MAX_VALUE;
+
+      int sum = 0;
+
+      for(int high = 0 ; high < nums.length ; high++)
+      {
         sum += nums[high];
 
         while(sum >= target)
@@ -15,13 +16,12 @@ class Solution {
             sum = sum - nums[low];
             low++;
         }
-       
-       }
-       if(res == Integer.MAX_VALUE){
+      }  
+      if(res == Integer.MAX_VALUE){
         return 0;
-       }
-       else{
+      }
+      else{
         return res;
-       }
+      }
     }
 }
