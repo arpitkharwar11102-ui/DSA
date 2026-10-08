@@ -32,6 +32,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0053-maximum-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arpitkharwar11102-ui/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -69,6 +70,7 @@
 | [0015-3sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0283-move-zeroes) |
@@ -171,4 +173,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
