@@ -86,6 +86,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/arpitkharwar11102-ui/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3524-find-x-value-of-array-i](https://github.com/arpitkharwar11102-ui/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/arpitkharwar11102-ui/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/arpitkharwar11102-ui/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -194,4 +195,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/arpitkharwar11102-ui/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
