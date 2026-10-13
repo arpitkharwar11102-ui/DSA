@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0724-find-pivot-index) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Array
@@ -80,6 +81,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0724-find-pivot-index](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
