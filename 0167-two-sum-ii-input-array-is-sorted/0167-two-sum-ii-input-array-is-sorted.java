@@ -5,8 +5,8 @@ public int[] twoSum(int[] numbers, int target) {
 
    while(low < high)
    {
-    int sum = numbers[low]+numbers[high];
-
+    int sum=0;
+   sum += numbers[low]+numbers[high];
     if(sum == target){
         return new int[]{low+1,high+1};
     }
