@@ -90,6 +90,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/arpitkharwar11102-ui/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/arpitkharwar11102-ui/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arpitkharwar11102-ui/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3524-find-x-value-of-array-i](https://github.com/arpitkharwar11102-ui/DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -117,6 +118,7 @@
 | [0287-find-the-duplicate-number](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/arpitkharwar11102-ui/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | [0018-4sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0018-4sum) |
 | [1096-brace-expansion-ii](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/arpitkharwar11102-ui/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Geometry
 |  |
 | ------- |
