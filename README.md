@@ -69,6 +69,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Array
@@ -90,6 +91,7 @@
 | [0724-find-pivot-index](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -110,6 +112,7 @@
 | [0202-happy-number](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/arpitkharwar11102-ui/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1096-brace-expansion-ii](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arpitkharwar11102-ui/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
